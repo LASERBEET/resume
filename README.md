@@ -1,4 +1,4 @@
-👋 Hi there! I'm Bank
+๒👋 Hi there! I'm Bank
 
  Welcome to my GitHub Profile — this serves as my interactive resume
 
