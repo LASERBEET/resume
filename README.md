@@ -1,7 +1,7 @@
  # 👋 Hi there! I'm Bank
 
  Welcome to my GitHub Profile — this serves as my interactive resume
- # 💼 About Me
+ ## 💼 About Me
 
 - 🔭Studying Computer Science at Huachiew Chalermprakiet University
 
